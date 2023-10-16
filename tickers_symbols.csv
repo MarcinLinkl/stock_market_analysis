@@ -1,0 +1,133 @@
+ticker,name
+^AEX,AEX (Holand)
+^ATX,ATX (Austria)
+^AXJO,S&P/ASX 200
+^BCOM,BBG Commodity
+^BFX,BEL 20
+^BSESN,S&P BSE SENSEX
+^BVSP,IBOVESPA
+^DJI,DJIA Consolidated
+^FCHI,CAC 40
+^FTSE,FTSE 100
+^FVX,Treasury Yield 5 Years
+^GDAXI,DAX PERFORMANCE-INDEX
+^GSPC,S&P 500 Consolidated
+^GSPE,S&P Energy
+^GSPTSE,S&P/TSX Composite index
+^HSI,HANG SENG INDEX
+^IRX,13 WEEK TREASURY BILL
+^ISEQ,ISEQ All Share (Irland)
+^IXIC,NASDAQ Composite
+^JKSE,IDX COMPOSITE
+^JN0U.JO,Top 40 USD Net TRI Index
+^KLSE,FTSE Bursa Malaysia KLCI
+^KS11,KOSPI Composite Index
+^MERV,MERVAL
+^MXX,IPC MEXICO
+^N100,Euronext 100 Index
+^N225,Nikkei 225
+^NYA,NYSE COMPOSITE (DJ)
+^NZ50,S&P/NZX 50 INDEX GROSS 
+^RUT,Russell 2000
+^SP500-15,S&P Materials
+^SP500-20,S&P Industrials
+^SP500-30,S&P 500 S&P 500 Consumer Staples
+^SP500-35,S&P Health Care
+^SP500-40,S&P Financials
+^SP500-45,S&P Information Technology
+^SP500-55,S&P Utilities
+^SPX,S&P INDEX
+^STI,STI Index
+^STOXX50E,ESTX 50 PR.EUR
+^TA125.TA,TA-125
+^TNX,Treasury Yield 10 Years
+^TWII,TSEC weighted index
+^TYX,Treasury Yield 30 Years
+^VIX,CBOE VIX Futures
+^XAX,NYSE AMEX COMPOSITE INDEX
+000001.SS,SSE Composite Index
+399001.SZ,Shenzhen Index
+6A=F,Australian Dollar Futures
+6B=F,British Pound
+6C=F,Canadian Dollar Futures
+6E=F,Euro Futures
+ALI=F,Aluminum Futures
+AUDUSD=X,AUD/USD
+BRL=X,Brazilian Real
+BTC-USD,Bitcoin USD
+BZ=F,Brent Crude Oil Last Day Finance
+CB=F,Cash-settled Butter
+CC=F,Cocoa
+CHF=X,Swiss Franc
+CL=F,Crude Oil
+CNY=X,USD/CNY
+CSC=F,Cash-Settled Cheese Futures
+CT=F,Cotton
+CZK=F,"Czech Koruna Futures,Dec-2023"
+DC=F,Class III Milk Futures
+DX-Y.NYB,USD Index
+EEM,iShares MSCI Emerging Markets ETF
+EFA,iShares MSCI EAFE ETF
+EPOL,iShares MSCI Poland ETF
+ETH-USD,Ethereum USD
+ETH=F,Ether Cash Futures
+EURCAD=X,EUR/CAD
+EURCHF=X,EUR/CHF
+EURGBP=X,EUR/GBP
+EURHUF=X,EUR/HUF
+EURJPY=X,EUR/JPY
+EURSEK=X,EUR/SEK
+EURUSD=X,EUR/USD
+GBPJPY=X,GBP/JPY
+GBPUSD=X,GBP/USD
+GC=F,Gold
+GDK=F,Class IV Milk Futures
+GF=F,WisdomTree International High D
+GNF=F,Nonfat Dry Milk Futures
+HE=F,"Lean Hogs Futures,Dec-2023"
+HG=F,Copper Dec 23
+HKD=X,USD/HKD
+HO=F,Heating Oil Nov 23
+IDR=X,USD/IDR
+IMOEX.ME,MOEX Russia Index
+INR=X,USD/INR
+JPY=X,USD/JPY
+JPYUSD=X,Yapanese Yen
+KC=F,Coffee Dec 23
+KE=F,"KC HRW Wheat Futures,Dec-2023"
+LBS=F,Random Length Lumber Futures
+LE=F,"Live Cattle Futures,Dec-2023"
+MCHI,iShares MSCI China ETF
+MME=F,MSCI Emerging Markets Index Futures
+MXN=X,USD/MXN
+MYR=X,USD/MYR
+NG=F,Natural Gas Nov 23
+NQ=F,Nasdaq 100 Dec 23
+NZDUSD=X,NZD/USD
+OJ=F,Orange Juice Jan 24
+PA=F,Palladium Dec 23
+PHP=X,USD/PHP
+PL=F,Platinum Jan 24
+PLN=F,PLN/USD - NYCC - Dec 23
+RB=F,RBOB Gasoline Nov 23
+RUB=X,USD/RUB
+SB=F,Sugar #11 Mar 24
+SDY,SPDR S&P Dividend ETF 
+SGD=X,USD/SGD
+SI=F,Silver
+THB=X,USD/THB
+TLT,iShares 20+ Year Treasury Bond ETF (TLT) 
+XAP=F,E-mini Consumer Staples Select
+ZAR=X,USD/ZAR
+ZB=F,"U.S. Treasury Bond Futures,Dec-"
+ZC=F,"Corn Futures,Dec-2023"
+ZF=F,Five-Year US Treasury Note Futu
+ZL=F,"Soybean Oil Futures,Dec-2023"
+ZM=F,S&P Composite 1500 ESG Tilted I
+ZN=F,"10-Year T-Note Futures,Dec-2023"
+ZO=F,"Oat Futures,Dec-2023"
+ZQ=F,30 Day Fed Fund
+ZR=F,"Rough Rice Futures,Jan-2024"
+ZS=F,"Soybean Futures,Jan-2024"
+ZT=F,"2-Year T-Note Futures,Dec-2023"
+ZW=F,SRW Wheat
