@@ -48,7 +48,7 @@ It's crucial to remember that investing in the stock market is subject to variou
 
 ## Contact
 
-I'm currently seeking new job opportunities, so please feel free to get in touch with any inquiries or collaborations at marcin.linkiel@gmail.com.
+I'm currently seeking new job opportunities, so please feel free to get in touch with any inquiries or collaborations at linkiel.marcin@gmail.com.
 
 Project Link: [https://github.com/MarcinLinkl/stock_market_analysis](https://github.com/MarcinLinkl/stock_market_analysis)
 
